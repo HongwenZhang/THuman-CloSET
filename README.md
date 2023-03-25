@@ -37,6 +37,6 @@ If you use this dataset for your research, please consider citing:
 ```
 
 ## Contact
-- [Hongwen Zheng](https://hongwenzhang.github.io/)
+- [Hongwen Zhang](https://hongwenzhang.github.io)
 - [Yebin Liu](http://liuyebin.com)
 
