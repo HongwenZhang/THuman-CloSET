@@ -1,7 +1,7 @@
 # THuman-CloSET Dataset
 
 ### 	
-[CloSET: Modeling Clothed Humans on Continuous Surface with Explicit Template Decomposition](http://www.liuyebin.com/closet)
+[CloSET: Modeling Clothed Humans on Continuous Surface with Explicit Template Decomposition](https://www.liuyebin.com/closet)
 
 Hongwen Zhang, Siyou Lin, Ruizhi Shao, Yuxiang Zhang, Zerong Zheng, Han Huang, Yandong Guo, Yebin Liu
 
