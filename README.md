@@ -7,9 +7,6 @@ Hongwen Zhang, Siyou Lin, Ruizhi Shao, Yuxiang Zhang, Zerong Zheng, Han Huang, Y
 
 CVPR 2023
 
-Dataset download link coming...
-
-
 ## Agreement
 1. The THuman-CloSET dataset (the "Dataset") is available for **non-commercial** research purposes only. Any other use, in particular any use for commercial purposes, is prohibited. This includes, without limitation, incorporation in a commercial product, use in a commercial service, as training data for a commercial product, for commercial ergonomic analysis (e.g. product design, architectural design, etc.), or production of other artifacts for commercial purposes including, for example, web services, movies, television programs, mobile applications, or video games. The dataset may not be used for pornographic purposes or to generate pornographic material whether commercial or not. The Dataset may not be reproduced, modified and/or made available in any form to any third party without Tsinghua University’s prior written permission.
 
@@ -18,6 +15,14 @@ Dataset download link coming...
 3. You agree **not to** further copy, publish or distribute any portion of the Dataset. Except, for internal use at a single site within the same organization it is allowed to make copies of the dataset.
 
 4. Tsinghua University reserves the right to terminate your access to the Dataset at any time.
+
+## Download Instructions 
+
+The dataset is encrypted to prevent unauthorized access.
+
+Please fill out the [request form](./THuman-CloSET_Agreement.pdf) and send it to Yebin Liu (liuyebin@mail.tsinghua.edu.cn) and cc Hongwen Zhang (zhanghongwen@mail.tsinghua.edu.cn) to request the download link.
+
+By requesting the link, you acknowledge that you have read the agreement, understand it, and agree to be bound by them. If you do not agree with these terms and conditions, you must not download and/or use the Dataset.
 
 ## Related Datasets from THU3DV Lab [[Link]](http://liuyebin.com)
 [[THuman3.0 Dataset]](https://github.com/fwbx529/THuman3.0-Dataset) Containing 20 human-garment combinations, where each combination has 15 to 35 high-quality human scans captured by a dense DLSR rig.  
